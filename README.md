@@ -26,7 +26,8 @@
 <!-- USAGE EXAMPLES -->
 ## Future Updates
 
-
+* Creating other language versions
+* Expanding the criteria available for categorizing bugs/issues/tasks
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
