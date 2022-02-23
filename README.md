@@ -8,7 +8,7 @@
 <h3 align="center">Flick ITS</h3>
 
   <p align="center">
-    This is an MVP of an Issue Tracking System I am building that sorts issue according to a numbered severity system and OS with Admin and Tech/User access.
+    This is an MVP of an Issue Tracking System I am building that sorts issue according to a "low, medium, high" severity system and OS with Admin and Tech/User access.
   </p>
 </div>
 
@@ -38,7 +38,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Demo
+## Demo Images
 
 <img src="images/demo1.png" alt="Logo" width="500" height="400">
 <img src="images/demo2.png" alt="Logo" width="500" height="400">
