@@ -9,12 +9,13 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/resources/css/style.css">
 <title>View All Tickets</title>
 </head>
 <body>
 	<div class="container mt-5">
 	<div class="d-flex justify-content-end">
-			<a href="/admin" class="btn btn-outline-success">Go to Admin Dashboard</a>
+			<a href="/admin" class="btn btn-outline-light">Go to Admin Dashboard</a>
 	</div>
 	<h3>User Access: <c:out value="${currentUser.username}"></c:out></h3>
 		<div class="d-flex justify-content-end">
@@ -25,11 +26,11 @@
         </div>
         <h1 class="row justify-content-center">Ticket Dashboard</h1>
         <div class="d-flex justify-content-end">
-        	<a href="/new" class="btn btn-success">Create Ticket</a>
+        	<a href="/new" class="btn btn-info">Create Ticket</a>
         </div>
         <div class="mt-5">
-            <table class="table table-striped table-hover table-bordered table table-sm table align-middle">
-                <thead class="table-light">
+            <table class="table table-dark table-hover table-bordered table table-sm table align-middle">
+                <thead class="table-info">
                     <tr>
                         <th class="col-md-1 offset-md-1">#</th>
                         <th class="col-md-2 offset-md-2">Priority</th>

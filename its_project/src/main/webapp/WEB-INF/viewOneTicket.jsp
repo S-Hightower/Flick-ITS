@@ -9,6 +9,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/resources/css/style.css">
 <title>View Ticket Details</title>
 </head>
 <body>
@@ -39,7 +40,7 @@
 			  </tbody>
 			</table>
 			<div class="mt-4 d-flex justify-content-end">
-        		<a href="/ticket/${ticket.id}/edit" class="btn btn-dark">Update</a>
+        		<a href="/ticket/${ticket.id}/edit" class="btn btn-outline-light">Update</a>
         	</div>
         </div>
 	</div>

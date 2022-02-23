@@ -1,0 +1,12 @@
+body {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url("/resources/images/flickBG.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1,
+h3,
+label {
+	color: #dadada;
+}
