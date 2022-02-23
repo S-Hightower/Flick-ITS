@@ -40,9 +40,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Demo
 
-<img src="images/demo1.png" alt="Logo" width="600" height="400">
-<img src="images/demo2.png" alt="Logo" width="600" height="400">
-<img src="images/demo3.png" alt="Logo" width="600" height="400">
-<img src="images/demo4.png" alt="Logo" width="600" height="400">
-<img src="images/demo5.png" alt="Logo" width="600" height="400">
-<img src="images/demo6.png" alt="Logo" width="600" height="400">
+<img src="images/demo1.png" alt="Logo" width="500" height="400">
+<img src="images/demo2.png" alt="Logo" width="500" height="400">
+<img src="images/demo3.png" alt="Logo" width="500" height="400">
+<img src="images/demo4.png" alt="Logo" width="500" height="400">
+<img src="images/demo5.png" alt="Logo" width="500" height="400">
+<img src="images/demo6.png" alt="Logo" width="500" height="400">
+
+<p align="right">(<a href="#top">back to top</a>)</p>
