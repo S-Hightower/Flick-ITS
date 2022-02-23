@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/S-Hightower/Flick-ITS">
     <img src="images/flickITS.png" alt="Logo" width="400" height="400">
   </a>
 
@@ -37,3 +37,12 @@
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Demo
+
+<img src="images/demo1.png" alt="Logo" width="400" height="400">
+<img src="images/demo2.png" alt="Logo" width="400" height="400">
+<img src="images/demo3.png" alt="Logo" width="400" height="400">
+<img src="images/demo4.png" alt="Logo" width="400" height="400">
+<img src="images/demo5.png" alt="Logo" width="400" height="400">
+<img src="images/demo6.png" alt="Logo" width="400" height="400">
