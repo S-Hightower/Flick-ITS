@@ -49,3 +49,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <img src="images/demo6.png" alt="Logo" width="500" height="400">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Feedback
+
+<a href="https://forms.gle/SkQKfNAGjvom28eq9">Click here for feedback form!</a>
+
