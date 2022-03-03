@@ -9,6 +9,7 @@
 
   <p align="center">
     This is an MVP of an Issue Tracking System I am building that sorts issue according to a "low, medium, high" severity system and OS with Admin and Tech/User access.
+    I wanted to begin building my own ITS as I have used quite a few with different companies and I have always found them lacking certain criteria/details that would be beneficial to building an effective troubleshooting plan per issue. This is just the beginning of this project and as I use it for my own projects, I anticipate scaling it up along the way.
   </p>
 </div>
 
